@@ -1,0 +1,560 @@
+最新前沿技术资讯
+
+一、入门教程｜Getting Started
+原标题：模拟登录鉴权权限判断示例
+简介：golang gin 中间件执行顺序讲解，理解 Gin 中间件注册顺序，区分前置后置逻辑，规避中间件顺序 bug。
+ | 原文链接：http://VzTw.izmlee.asia
+
+原标题：golang 系统设计故障定位排查通用步骤方法论
+简介：文件批量导入导出功能实现，开发批量导入导出接口，处理大量文件数据，完成业务数据批量迁移与导出。
+ | 原文链接：http://QuOs.izmlee.asia
+
+原标题：业务接口幂等完整落地案例
+简介：golang 内存缓存简单实现方案，Go 实现进程内简易内存缓存，本地缓存热点数据，减少远程调用。
+ | 原文链接：http://MqKo.izmlee.asia
+
+原标题：调优方案：JVM内存参数优化，降低GC频率
+简介：golang wasm webassembly go 编译，go 编译为 wasm，浏览器执行 go 代码，拓展 go 运行场景。
+ | 原文链接：http://IGkE.izmlee.asia
+
+原标题：从零搭建本地开发环境完整教程
+简介：golang go 错误包装 fmt.Errorf % w，使用 % w 包装错误，支持 errors.Is errors.As 判断错误类型。
+ | 原文链接：http://iCgA.izmlee.asia
+
+原标题：实战项目：搭建私有Docker镜像仓库本地实践
+简介：Docker 网络模式容器互通设置，选择合适 Docker 网络模式，实现容器之间网络互相访问通信。
+ | 原文链接：http://e8c6.izmlee.asia
+
+原标题：新手指南：本地防火墙端口访问失败排查
+简介：无用对象回收抑制内存上涨，优化对象生命周期，及时释放不再使用对象，抑制内存持续不断增长。
+ | 原文链接：http://a4Y2.izmlee.asia
+
+原标题：golang 系统设计网关鉴权鉴权转发流程讲解
+简介：MySQL 慢查询索引优化实战，抓取慢查询 SQL，分析执行计划，新增或者调整索引，提升 SQL 执行速度。
+ | 原文链接：http://W0Uy.izmlee.asia
+
+原标题：golang 系统设计监控告警阈值设置思路
+简介：golang gorm group by 分组统计，GORM 分组聚合统计，实现 count sum 等统计查询，快速完成统计业务。
+ | 原文链接：http://SwQu.izmlee.asia
+
+原标题：golang 系统设计网关路由规则动态配置实现
+简介：golang go math 大数高精度计算，math/big 处理超大整数、高精度浮点数，金额大数运算。
+ | 原文链接：http://OsMq.izmlee.asia
+
+原标题：golang 系统设计无锁编程思路简单示例
+简介：OAuth2 第三方登录服务搭建，搭建 OAuth2 服务，支持第三方账号登录，实现授权登录能力。
+ | 原文链接：http://KoIm.izmlee.asia
+
+原标题：开发复盘：数据库批量更新优化性能实践
+简介：golang go 随机数安全与非安全，math/rand 伪随机与 crypto/rand 密码学安全随机，区分业务场景。
+ | 原文链接：http://GkEi.izmlee.asia
+
+原标题：开发记录：数据库悲观锁乐观锁业务场景实践
+简介：golang clickhouse go 客户端数据写入，clickhouse‑go 客户端写入查询，海量时序数据分析业务。
+ | 原文链接：http://CgAe.izmlee.asia
+
+原标题：性能复盘：慢SQL定位、分析、改写完整案例
+简介：程序信号中断退出处理逻辑，捕获系统中断信号，执行资源释放、关闭连接，实现程序优雅退出。
+ | 原文链接：http://86a4.izmlee.asia
+
+原标题：Hands‑on：实现服务健康检查与自动报警demo
+简介：多版本开发环境共存配置，实现同一工具多版本并存，快速切换不同版本，适配不同项目对版本的差异化需求。
+ | 原文链接：http://Y2W0.izmlee.asia
+
+原标题：golang minio 存储桶权限管控配置
+简介：golang 参数校验业务接口处理，Go 接口入参参数校验，拦截非法入参，减少业务层参数判断代码。
+ | 原文链接：http://UySw.izmlee.asia
+
+原标题：实战：数据库explain执行计划分析实操演练
+简介：文件句柄上限调整上传随机失败，调高系统文件句柄上限，解决高并发上传场景随机打开文件失败。
+ | 原文链接：http://QuOs.izmlee.asia
+
+原标题：日志输出规范防止磁盘爆满
+简介：不必要字符转义关闭业务异常，关闭多余自动转义逻辑，防止业务数据被错误转义，破坏原始数据。
+ | 原文链接：http://MqKo.izmlee.asia
+
+原标题：排错：HTTPS证书过期导致接口调用失败
+简介：单元测试用例编写入门实操，讲解测试用例设计思路，演示基础单元测试代码，提升代码健壮性，提前发现逻辑 bug。
+ | 原文链接：http://ImGk.izmlee.asia
+
+原标题：Docker 网络模式容器互通设置
+简介：golang redis 过期时间处理技巧，设置 key 过期，监控过期事件，基于过期特性实现业务缓存逻辑。
+ | 原文链接：http://EiCg.izmlee.asia
+
+原标题：入门实践：本地简单代理服务搭建
+简介：golang go 优雅处理信号丢失场景，处理信号丢失、信号被忽略，保障程序可以正常接收终止信号。
+ | 原文链接：http://Ae8c.izmlee.asia
+
+原标题：移动端适配 rem vw 方案对比
+简介：并发数据覆盖加锁安全处理，多线程并发修改同一数据，增加锁机制，防止并发覆盖丢失更新数据。
+ | 原文链接：http://6a4Y.izmlee.asia
+
+原标题：前端错误监控上报系统搭建
+简介：Shell 脚本自动化命令编写，讲解 Shell 基础语法，编写自动化脚本，完成批量执行、文件处理，解放重复手工操作。
+ | 原文链接：http://2VzT.izmlee.asia
+
+原标题：golang 系统设计内部服务链路 trace 传递实现
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：http://RvPt.izmlee.asia
+
+原标题：业务接口幂等完整落地案例
+简介：golang etcd key 监听变更 watch 机制，watch 监听 etcd 键变化，配置变更实时感知，实现配置热更新。
+ | 原文链接：http://NrLp.izmlee.asia
+
+原标题：调优方案：gzip压缩开启降低网络传输体积
+简介：golang grpc metadata 元数据透传，metadata 传递 traceId、鉴权信息，全链路透传上下文信息。
+ | 原文链接：http://JnHl.izmlee.asia
+
+原标题：排错：多实例部署session共享失效登录失效
+简介：程序性能指标 CPU 内存监控，讲解基础性能指标含义，简单实现监控采集，初步定位程序运行性能瓶颈。
+ | 原文链接：http://FjDh.izmlee.asia
+
+原标题：百万数据 Excel 导出内存优化
+简介：分布式锁失效问题排查修复，分析分布式锁失效场景，修复锁超时、续期问题，保证锁逻辑可靠。
+ | 原文链接：http://Bf9d.izmlee.asia
+
+原标题：golang 系统设计内网外网服务隔离方案
+简介：golang 单元测试 mock http 请求，mock HTTP 外部接口，单元测试不依赖外部网络，保证用例稳定运行。
+ | 原文链接：http://7b5Z.izmlee.asia
+
+原标题：golang 系统设计故障预案编写模板参考示例
+简介：golang go 调用动态链接库 so 文件，go 加载 so 动态库调用函数，复用编译好的 C 动态库。
+ | 原文链接：http://3X1V.izmlee.asia
+
+原标题：golang 系统设计数据库查询优化完整流程
+简介：用户敏感数据脱敏代码实现，编写数据脱敏工具，对手机号、身份证做脱敏处理，防止敏感信息直接泄露。
+ | 原文链接：http://zTxR.izmlee.asia
+
+原标题：项目实践：幂等表实现接口幂等业务实践
+简介：golang sqlx 原生 SQL 代码简化，sqlx 简化原生 SQL 结果映射结构体，兼顾性能与开发效率。
+ | 原文链接：http://vPtN.izmlee.asia
+
+原标题：方案对比：本地缓存vs分布式缓存架构取舍
+简介：前后端会话登录状态持久化，实现登录状态持久存储，重启服务登录状态不丢失，保障会话稳定性。
+ | 原文链接：http://rLpn.izmlee.asia
+
+原标题：实战：GraphQL服务搭建与CRUD实操
+简介：golang time 时间格式化避坑，Go 时间格式化参考时间牢记，处理时间解析格式化，解决时间输出错乱。
+ | 原文链接：http://HlFj.izmlee.asia
+
+原标题：Architecture：大文件上传下载系统架构设计
+简介：golang go mod vendor 本地依赖导出，导出 vendor 目录，离线环境编译项目，无需访问外网拉依赖。
+ | 原文链接：http://DhBf.izmlee.asia
+
+原标题：Issue：本地可以访问，容器内部网络不通
+简介：批量异步处理系统业务落地，构建批量异步处理系统，把耗时业务异步化，提升接口响应速度。
+ | 原文链接：http://9d7b.izmlee.asia
+
+原标题：Troubleshooting：Redis大key引发集群卡顿
+简介：golang 反向代理 http 服务开发，手写简易 http 反向代理，转发请求，修改请求头响应头。
+ | 原文链接：http://5Z3X.izmlee.asia
+
+原标题：golang kafka 生产者参数调优
+简介：golang 处理连接被重置 reset 错误，识别 connection reset by peer，对端关闭连接异常处理逻辑。
+ | 原文链接：http://1VzT.izmlee.asia
+
+原标题：golang 系统设计 cpu 高占用排查步骤
+简介：大事务拆分回滚日志暴涨解决，拆分大型数据库事务，减少回滚日志生成量，避免磁盘被回滚日志占满。
+ | 原文链接：http://xRvP.izmlee.asia
+
+原标题：内存溢出问题现象识别排查
+简介：golang docker compose 开发环境 go 服务，docker compose 编排 go 服务与中间件，本地一键拉起整套开发环境。
+ | 原文链接：http://tNrL.izmlee.asia
+
+
+二、踩坑排错｜Troubleshooting
+原标题：TCP 心跳检测清理僵死连接
+简介：程序预加载加快服务启动速度，把高频使用资源提前预加载，减少请求阶段初始化，加快服务启动。
+ | 原文链接：http://pJnH.izmlee.asia
+
+原标题：golang k8s pod 优雅关闭流程讲解
+简介：golang CPU 绑定亲和性设置 go 程序，设置进程 CPU 亲和绑定核心，减少 CPU 调度开销，提升计算性能。
+ | 原文链接：http://lFjD.izmlee.asia
+
+原标题：golang 系统设计序列化性能选型对比
+简介：WebSocket 断线重连稳定优化，增加 WebSocket 断线自动重连逻辑，处理网络抖动，维持长连接稳定。
+ | 原文链接：http://hB9d.izmlee.asia
+
+原标题：golang 系统设计本地消息表可靠消息最终一致性
+简介：消息队列消费堆积扩容处理，消息大量堆积时，扩容消费实例，优化消费逻辑，加快消息处理速度。
+ | 原文链接：http://7b4Y.izmlee.asia
+
+原标题：限流规则误拦截正常请求修复
+简介：golang base64 大文件流式编解码，大文件流式 base64 转换，不用一次性加载全部文件进入内存。
+ | 原文链接：http://2W0U.izmlee.asia
+
+原标题：一次数据库死锁现场分析与解决方案记录
+简介：golang prometheus 指标埋点开发，业务埋点计数器、仪表盘、直方图，对接 prometheus 采集监控指标。
+ | 原文链接：http://ySwQ.izmlee.asia
+
+原标题：golang redis pipeline 原子性说明
+简介：golang net.Conn 包装自定义连接，包装 net.Conn，统计读写字节，日志打印，超时控制。
+ | 原文链接：http://uOsM.izmlee.asia
+
+原标题：golang 系统设计 rest 状态码合理使用指南
+简介：golang runtime.Gosched 主动让出调度，长计算循环主动 Gosched，让出调度权，防止其他协程饥饿。
+ | 原文链接：http://qKoI.izmlee.asia
+
+原标题：Hands‑on：模拟RPC超时重试业务异常场景
+简介：浮点计算精度错误处理方案，讲解浮点数计算精度丢失问题，使用合适数据类型，规避金额计算出错。
+ | 原文链接：http://mGkE.izmlee.asia
+
+原标题：golang redis pipeline 批量操作
+简介：前端错误监控上报系统搭建，搭建前端错误监控，捕获页面 JS 错误，上报后端，快速发现线上页面 bug。
+ | 原文链接：http://iCgA.izmlee.asia
+
+原标题：前端骨架屏提升页面体验
+简介：golang 分库分表简单路由实现，简易分表路由逻辑实现，根据分片 key 计算分片位置，数据路由写入。
+ | 原文链接：http://e8c6.izmlee.asia
+
+原标题：移动端适配 rem vw 方案对比
+简介：图片上传预览格式大小处理，实现图片上传接口，校验文件格式、大小，完成上传后预览处理。
+ | 原文链接：http://a4Y2.izmlee.asia
+
+原标题：设计思考：分布式锁选型、风险、业务约束
+简介：CI 构建缓存加速编译速度，开启 CI 流水线依赖缓存，复用上一次构建依赖包，缩短流水线构建耗时。
+ | 原文链接：http://WUyS.izmlee.asia
+
+原标题：正则表达式优化 CPU 占满问题
+简介：全局异常处理器接口返回统一，接入全局异常捕获，拦截业务全部异常，对外输出统一格式返回值。
+ | 原文链接：http://wQuO.izmlee.asia
+
+原标题：golang 系统设计令牌桶漏桶算法对比
+简介：golang go 调度器 GMP 模型通俗讲解，拆解 GMP 模型，理解 goroutine M P 调度原理，看懂调度状态。
+ | 原文链接：http://sMqK.izmlee.asia
+
+原标题：DevOps：多阶段构建Dockerfile最佳实践
+简介：golang go 多版本管理 gvm 使用，gvm 管理多个 go sdk 版本，快速切换不同 go 版本做项目开发。
+ | 原文链接：http://oImG.izmlee.asia
+
+原标题：golang 系统设计结构化日志字段规范约定
+简介：golang 速率限制令牌桶实现，Go 实现令牌桶限流算法，可复用限流器，控制业务调用速率。
+ | 原文链接：http://kEiC.izmlee.asia
+
+原标题：Hands‑on：简易请求转发代理中间件实现
+简介：golang 日志脱敏敏感字段过滤，日志打印自动脱敏敏感字段，避免日志输出手机号身份证泄露隐私。
+ | 原文链接：http://gAe8.izmlee.asia
+
+原标题：Issue：本地可以访问，容器内部网络不通
+简介：golang cgo 性能开销避坑指南，cgo 调用开销，减少频繁 cgo 调用，规避 cgo 带来内存泄漏风险。
+ | 原文链接：http://c6a4.izmlee.asia
+
+原标题：golang viper 配置热更新实操
+简介：nodejs http 服务性能调优实战，调优 Node HTTP 服务内核参数，连接复用，提升接口并发处理能力。
+ | 原文链接：http://Y2W0.izmlee.asia
+
+原标题：排错：对象存储跨域配置不生效前端上传失败
+简介：开发生产环境资源路径统一，对齐开发环境与生产环境资源路径，防止本地正常上线后资源找不到。
+ | 原文链接：http://UySw.izmlee.asia
+
+原标题：日志驱动异常日志不输出修复
+简介：golang ip2regionIP 地址解析实战，集成 ip2region 库，根据 IP 解析归属地城市，实现 IP 地域解析。
+ | 原文链接：http://QuOs.izmlee.asia
+
+原标题：不必要字符转义关闭业务异常
+简介：golang testify testify 断言库使用，testify assert require 断言，简化单元测试断言代码。
+ | 原文链接：http://MKoI.izmlee.asia
+
+原标题：部署实践：服务器SSH安全加固配置实践
+简介：Dockerfile 编写容器打包实战，讲解 Dockerfile 指令含义，编写镜像构建脚本，将本地项目打包成可分发容器镜像。
+ | 原文链接：http://mGkE.izmlee.asia
+
+原标题：JWT 令牌过期异常处理
+简介：golang sort 搜索查找切片元素，sort.Search 二分查找有序切片，快速定位元素索引位置。
+ | 原文链接：http://iCg9.izmlee.asia
+
+原标题：ORM 框架数据库增删改查实操
+简介：容器内存扩容 OOM 被杀死修复，调高容器内存限制，优化程序内存占用，避免程序被 OOM 终止。
+ | 原文链接：http://d7b5.izmlee.asia
+
+原标题：安全复盘：环境变量密钥泄露风险与防护
+简介：golang validator 自定义校验规则，Gin Validator 自定义校验器，实现业务特殊参数校验逻辑。
+ | 原文链接：http://Z3X1.izmlee.asia
+
+原标题：性能笔记：DNS缓存优化减少域名解析开销
+简介：golang go‑zero 分布式锁组件使用，go‑zero 内置 redis 分布式锁，业务直接调用实现并发控制。
+ | 原文链接：http://VzTx.izmlee.asia
+
+原标题：项目依赖安全扫描漏洞防范
+简介：多环境配置中心灵活切换方案，简易配置中心实现，支持多套环境配置，动态下发无需重启服务。
+ | 原文链接：http://RvPt.izmlee.asia
+
+原标题：优化实践：序列化框架性能对比选型实践
+简介：golang go‑pg postgres 客户端实操，go‑pg 操作 PostgreSQL 数据库，CRUD 关联查询业务开发。
+ | 原文链接：http://NrLp.izmlee.asia
+
+原标题：从零编写简易 CLI 命令行工具
+简介：死信队列处理消息阻塞业务，配置死信队列，处理消费失败消息，避免失败消息阻塞整个队列业务。
+ | 原文链接：http://JnHl.izmlee.asia
+
+原标题：开发代理服务网络限制解决
+简介：TLS 版本兼容 HTTPS 握手失败，兼容老旧 TLS 协议版本，修复部分客户端 HTTPS 握手失败无法访问。
+ | 原文链接：http://FjDh.izmlee.asia
+
+原标题：Git LFS 大文件推送失败解决
+简介：批量数据处理脚本编写技巧，编写脚本批量处理大量业务数据，循环处理、分批执行，提升数据处理效率。
+ | 原文链接：http://f9d7.izmlee.asia
+
+原标题：浮点计算精度错误处理方案
+简介：golang url 参数编码处理方案，Go URL 参数编码解码，处理特殊字符，避免 URL 参数错乱。
+ | 原文链接：http://b5Z3.izmlee.asia
+
+原标题：方案对比：几种分布式限流算法架构适用性
+简介：Redis 热点 key 拆分降低集群压力，拆分访问量极高的热点 Key，分散请求压力，避免 Redis 节点压力过高。
+ | 原文链接：http://X1Vz.izmlee.asia
+
+原标题：设计思考：业务系统如何做故障隔离架构
+简介：前端 pdf 预览渲染方案对比，对比前端 PDF 预览库，分析性能、兼容性，给出业务选型参考。
+ | 原文链接：http://TxRv.izmlee.asia
+
+原标题：文件批量导入导出功能实现
+简介：程序日志分级输出规范实践，区分日志等级，规范日志打印内容，合理输出日志，方便线上问题排查定位。
+ | 原文链接：http://PtNr.izmlee.asia
+
+原标题：Architecture：文件处理服务架构大文件内存规避
+简介：golang errgroup 协程组错误处理，errgroup 捕获协程错误，context 取消剩余协程，简化并发任务。
+ | 原文链接：http://LpJn.izmlee.asia
+
+原标题：轻量 API 后端接口服务快速开发
+简介：本地简易配置中心动态管理，搭建轻量本地配置中心，业务动态读取配置，修改配置不重启服务。
+ | 原文链接：http://HlFj.izmlee.asia
+
+原标题：golang 系统设计雪花算法 id 原理剖析
+简介：防火墙 IP 白名单回调接口放行，配置防火墙白名单，放行第三方回调服务器 IP，接收回调请求正常。
+ | 原文链接：http://DhBf.izmlee.asia
+
+三、实战开发｜Practice
+原标题：架构复盘：分表扩容架构平滑迁移思路
+简介：golang aes cbc gcm 模式加密对比，AES‑CBC AES‑GCM 模式加密解密，理解两种模式差异选型。
+ | 原文链接：http://9d7b.izmlee.asia
+
+原标题：Issue：Nginxkeepalive参数不合理大量TIME_WAIT
+简介：内存广播本地进程消息通知，实现进程内内存消息广播，进程内部模块之间事件通知解耦。
+ | 原文链接：http://5Z31.izmlee.asia
+
+原标题：零基础理解跨域问题产生原因与基础方案
+简介：nestjs 拦截器过滤器管道实战，实操 Nest 拦截器、异常过滤器、管道校验，处理请求与响应统一逻辑。
+ | 原文链接：http://VzTx.izmlee.asia
+
+原标题：golang 系统设计接口频率限制业务落地
+简介：OAuth2 第三方登录服务搭建，搭建 OAuth2 服务，支持第三方账号登录，实现授权登录能力。
+ | 原文链接：http://RvPt.izmlee.asia
+
+原标题：golang redis 过期 key 监听业务
+简介：golang 容器信号转发处理问题修复，docker/k8s 正确转发 SIGTERM 信号，保证 go 程序收到信号优雅退出。
+ | 原文链接：http://NrLp.izmlee.asia
+
+原标题：Spring 事务传播机制配置生效
+简介：golang channel 作为函数参数方向，声明 channel 入参方向，只读 channel 只写 channel 提升代码约束。
+ | 原文链接：http://JnHl.izmlee.asia
+
+原标题：Hands‑on：手写简单RPC框架基础通信版本
+简介：消息队列生产消费模型入门，讲解消息队列生产、存储、消费流程，理解异步解耦、削峰，掌握消息队列基础概念。
+ | 原文链接：http://FiCg.izmlee.asia
+
+原标题：golang http grpc 全链路埋点示例
+简介：模拟登录鉴权权限判断示例，实现简易登录流程，会话状态维护，完成接口权限校验，理解身份鉴权基础逻辑。
+ | 原文链接：http://Ae8c.izmlee.asia
+
+原标题：golang 系统设计 sql 注入 xss 防护实践
+简介：golang etcd key 监听变更 watch 机制，watch 监听 etcd 键变化，配置变更实时感知，实现配置热更新。
+ | 原文链接：http://6a4Y.izmlee.asia
+
+原标题：手写简易 RPC 服务通信原型
+简介：golang 集成测试测试数据库回滚，集成测试结束自动回滚数据库，不污染测试环境数据。
+ | 原文链接：http://2W0U.izmlee.asia
+
+原标题：排坑：Git提交历史混乱，如何清理错误提交
+简介：全局本地依赖隔离冲突规避，区分全局依赖与项目本地依赖，隔离环境，防止全局包干扰项目运行。
+ | 原文链接：http://ySwQ.izmlee.asia
+
+原标题：配置与镜像分离防止信息泄露
+简介：golang 大内存分配 GC 抖动规避，避免瞬时大量对象创建，分批处理，防止 GC 抖动业务抖动。
+ | 原文链接：http://uOMq.izmlee.asia
+
+原标题：从零学习简单分布式ID生成思路
+简介：golang nats jetstream 持久消息队列，nats jetstream 持久化消息，保证消息不丢失，实现可靠消费。
+ | 原文链接：http://KoIm.izmlee.asia
+
+原标题：设计思考：分布式锁选型、风险、业务约束
+简介：golang channel 缓冲无缓冲区别，缓冲 channel 与无缓冲 channel，底层行为差异业务选型参考。
+ | 原文链接：http://GkEi.izmlee.asia
+
+原标题：安全笔记：Git仓库密钥硬编码泄露处理方案
+简介：业务错误码体系设计方案，设计项目统一错误码，区分不同业务异常，标准化错误返回，便于前端识别处理。
+ | 原文链接：http://CgAe.izmlee.asia
+
+原标题：K8s 镜像拉取网络故障修复
+简介：布隆过滤器数据高效去重实现，实现布隆过滤器组件，用于海量数据去重，节省大量内存空间。
+ | 原文链接：http://8c6a.izmlee.asia
+
+原标题：golang 系统设计 api 文档 swagger redoc 落地
+简介：golang channel 作为函数参数方向，声明 channel 入参方向，只读 channel 只写 channel 提升代码约束。
+ | 原文链接：http://4Y2W.izmlee.asia
+
+原标题：性能复盘：锁粒度太大，拆分细粒度锁优化
+简介：前端下载导出文件功能实现，前端实现文件流下载导出，处理异常，适配浏览器不同下载行为。
+ | 原文链接：http://0UyS.izmlee.asia
+
+原标题：安全复盘：定时任务权限过大风险管控
+简介：系统时间同步定时任务偏移，同步服务器系统时间，防止时间偏移，避免定时任务执行时间错乱。
+ | 原文链接：http://wQuO.izmlee.asia
+
+原标题：快速入门容器基础概念，理解镜像与容器
+简介：版本升级服务启动失败处理，版本更新之后服务无法启动，对比新旧版本配置、依赖差异，完成故障修复。
+ | 原文链接：http://sMqK.izmlee.asia
+
+原标题：TCP 心跳检测清理僵死连接
+简介：golang 消息队列 kafka 消费开发，Go 开发 Kafka 消费程序，消费消息执行业务，理解 Kafka 消费逻辑。
+ | 原文链接：http://oImG.izmlee.asia
+
+原标题：坑点：gitcherry‑pick引入不兼容代码
+简介：golang clickhouse go 客户端数据写入，clickhouse‑go 客户端写入查询，海量时序数据分析业务。
+ | 原文链接：http://kiCg.izmlee.asia
+
+原标题：安全笔记：CSP内容安全策略配置实践
+简介：golang staticcheck 静态代码分析，staticcheck 深度静态检查，发现代码错误、性能问题、风格问题。
+ | 原文链接：http://Ae8c.izmlee.asia
+
+原标题：golang 系统设计 rest 错误返回格式统一规范
+简介：golang ctx 关闭之后资源释放，context 取消后，监听 Done ()，释放 goroutine 网络 IO 资源。
+ | 原文链接：http://6a4Y.izmlee.asia
+
+原标题：Troubleshoot：跨域偶现失败难以复现问题
+简介：golang 后端节点健康检查机制实现，定时探测后端节点状态，自动剔除故障节点，保障转发可用。
+ | 原文链接：http://2W0U.izmlee.asia
+
+原标题：golang 系统设计第三方接口 mock 单元测试
+简介：nodejs 定时任务生产环境避坑，Node 定时任务线上踩坑汇总，集群重复执行、任务阻塞等问题解决方案。
+ | 原文链接：http://ySwQ.izmlee.asia
+
+原标题：golang 系统设计配置回滚版本历史记录实现
+简介：请求重试组件退避策略实现，封装重试组件，实现指数退避策略，避免大量请求同时重试压垮下游。
+ | 原文链接：http://uOsM.izmlee.asia
+
+原标题：golang 简单爬虫请求防封禁
+简介：golang 分布式锁防死锁实现要点，锁超时、续期、锁持有者校验，避免锁死锁，保障分布式锁可靠性。
+ | 原文链接：http://qKnH.izmlee.asia
+
+原标题：Hands‑on：本地模拟消息重复消费处理实践
+简介：开发生产环境资源路径统一，对齐开发环境与生产环境资源路径，防止本地正常上线后资源找不到。
+ | 原文链接：http://lFjD.izmlee.asia
+
+原标题：项目实践：Docker镜像安全扫描本地实操
+简介：golang select 随机分支执行特性，多个 channel 就绪 select 随机选择，理解 select 行为特性。
+ | 原文链接：http://hBf9.izmlee.asia
+
+原标题：跨平台换行符统一异常修复
+简介：多环境配置中心灵活切换方案，简易配置中心实现，支持多套环境配置，动态下发无需重启服务。
+ | 原文链接：http://d7b5.izmlee.asia
+
+原标题：慢查询分析索引调优数据库实战
+简介：RPC 报文大小上限调优大请求，调大 RPC 框架报文最大限制，支持传输大体积请求报文不被截断。
+ | 原文链接：http://ZX1V.izmlee.asia
+
+原标题：Cookie Session 会话状态管理
+简介：golang 消息队列实现事务消息方案，基于 kafka 实现事务消息，业务执行成功才对外投递消息。
+ | 原文链接：http://zTxR.izmlee.asia
+
+原标题：Shell 脚本自动化命令编写
+简介：golang makefile 多平台编译脚本，makefile 一键交叉编译多平台二进制，打包镜像，执行测试。
+ | 原文链接：http://vPtN.izmlee.asia
+
+原标题：Architecture：中小型后端服务整体架构设计复盘
+简介：golang 环境变量读取与类型转换，读取系统环境变量，做类型转换默认值处理，适配多环境部署。
+ | 原文链接：http://rLpJ.izmlee.asia
+
+原标题：新手教程：gitrebase基础使用与风险提示
+简介：JWT 令牌过期异常处理，捕获 JWT 过期、篡改异常，编写业务处理逻辑，引导用户重新获取令牌。
+ | 原文链接：http://nHlF.izmlee.asia
+
+原标题：设计思考：业务系统如何做故障隔离架构
+简介：前端组件库按需加载性能优化，配置组件库按需引入，避免引入全部组件，减少打包产物体积。
+ | 原文链接：http://jDhB.izmlee.asia
+
+原标题：实战：gRPC服务编写客户端服务端完整demo
+简介：语义化版本依赖管理防错乱，项目依赖遵循语义版本约束，规避依赖自动升级引入不兼容变更。
+ | 原文链接：http://f9d7.izmlee.asia
+
+原标题：Hands‑on：编写shell健康检查自动重启脚本
+简介：golang go‑zero 框架项目快速搭建，go‑zero 脚手架生成微服务项目，api rpc 服务快速开发。
+ | 原文链接：http://b5Z3.izmlee.asia
+
+原标题：从零搭建本地开发环境完整教程
+简介：golang staticcheck 静态代码分析，staticcheck 深度静态检查，发现代码错误、性能问题、风格问题。
+ | 原文链接：http://X1Vz.izmlee.asia
+
+四、架构设计｜Architecture
+原标题：golang 系统设计 rest 错误返回格式统一规范
+简介：golang kitex 中间件与元数据传递，kitex 自定义中间件，透传 traceId 鉴权元数据，统一处理请求。
+ | 原文链接：http://TxRv.izmlee.asia
+
+原标题：Performance：数据库索引优化常见错误案例
+简介：golang go mod 私有 git 仓库配置，配置 go mod 拉取私有仓库代码，处理私有模块依赖拉取问题。
+ | 原文链接：http://tNrL.izmlee.asia
+
+原标题：实战：接口压力测试实操，定位系统瓶颈
+简介：golang word 文档生成处理 go 方案，go 生成 word 文档报表，填充文本表格，输出 docx 文件。
+ | 原文链接：http://pJnH.izmlee.asia
+
+原标题：golang redis 缓存击穿防护实现
+简介：golang 图片处理 go 图片裁剪压缩，golang 图像处理库，图片缩放裁剪水印，服务端图片处理。
+ | 原文链接：http://lFjD.izmlee.asia
+
+原标题：项目实践：定时任务防重复执行落地实践
+简介：nestjs 框架模块化项目搭建，从零搭建 NestJS 项目，模块化拆分业务，搭建规范后端项目骨架。
+ | 原文链接：http://hBf9.izmlee.asia
+
+原标题：golang 系统设计内存高占用排查思路
+简介：Shell 脚本自动化命令编写，讲解 Shell 基础语法，编写自动化脚本，完成批量执行、文件处理，解放重复手工操作。
+ | 原文链接：http://d7b5.izmlee.asia
+
+原标题：线上异常：布隆过滤器误判造成业务逻辑异常
+简介：nodejs 脚手架工具开发完整教程，从零开发 Node 命令行脚手架，实现项目模板生成，理解 CLI 开发。
+ | 原文链接：http://Z3X1.izmlee.asia
+
+原标题：部署实践：服务器防火墙安全组配置实践
+简介：golang gorm 子查询嵌套查询写法，Gorm 实现子查询、嵌套查询，复杂条件查询简化代码编写。
+ | 原文链接：http://VzTx.izmlee.asia
+
+原标题：架构复盘：系统扩容缩容架构无状态优先原则
+简介：golang 定时任务任务持久化存储，定时任务持久化到数据库，服务重启任务不丢失，动态管理任务。
+ | 原文链接：http://RvPs.izmlee.asia
+
+原标题：golang 系统设计日志级别业务使用原则梳理
+简介：golang make new 关键字使用区别，分清 new 与 make 适用类型，正确初始化切片 map 通道，杜绝 nil 引发 panic。
+ | 原文链接：http://MqKo.izmlee.asia
+
+原标题：golang docker compose 完整语法
+简介：golang go race 竞态检测工具，‑race 检测数据竞争，编译运行检测并发读写数据竞争 bug。
+ | 原文链接：http://ImGE.izmlee.asia
+
+原标题：nodejs 定时任务生产环境避坑
+简介：内存溢出问题现象识别排查，识别内存溢出现象，梳理排查方向，定位内存持续上涨引发服务崩溃问题。
+ | 原文链接：http://iCgA.izmlee.asia
+
+原标题：架构笔记：数据库读写分离架构数据不一致应对
+简介：golang time 时间格式化参考时间牢记，2006‑01‑02T15:04:05Z07:00，掌握 go 时间格式化关键点。
+ | 原文链接：http://e8c6.izmlee.asia
+
+原标题：golang gin 中间件执行顺序讲解
+简介：golang gin 路由动态注册实现方案，根据配置动态注册接口路由，无需硬编码路由，适配动态业务模块。
+ | 原文链接：http://a4Y2.izmlee.asia
+
+原标题：特殊输入字符过滤解析防护
+简介：golang 探测文件真实内容类型，读取文件头部字节判断真实文件格式，规避后缀伪造。
+ | 原文链接：http://W0Uy.izmlee.asia
+
+原标题：日志切割配置防止日志丢失
+简介：业务错误码完整落地实践，落地完整业务错误码，枚举全部业务异常，统一返回，配套文档说明。
+ | 原文链接：http://SwQu.izmlee.asia
+
+原标题：快速入门异步编程基础模型
+简介：gRPC 服务端客户端入门示例，搭建 gRPC 服务端与调用客户端，学习 protobuf 定义，掌握 RPC 基础开发流程。
+ | 原文链接：http://OsMq.izmlee.asia
+
+原标题：Practice：实现请求大小限制中间件防护大报文
+简介：golang 静态编译缩小镜像体积，Go 程序静态编译，不依赖系统库，产出单二进制文件，缩小镜像。
+ | 原文链接：http://KoIm.izmlee.asia
+
+?
